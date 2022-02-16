@@ -246,3 +246,4 @@ class NLULongPollBot(LongPollBot):
             self.dataset.pop(word)
 
         print("Загрузка датасета диалогов завершена")
+#1
